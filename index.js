@@ -1,1 +1,1 @@
-export { useForceUpdate } from './src/use-force-update';
+export { useForceUpdate } from './src/useForceUpdate';
